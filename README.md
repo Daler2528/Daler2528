@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/4bb5fd0de189c0ccd5fd6.jpg" alt="my banner">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-masterclass-course%2F&psig=AOvVaw2oj_fPc6o31_dyv7FIgYX7&ust=1725711756596000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjGhLSnrogDFQAAAAAdAAAAABAE" alt="my banner">
 </p>
 
 <h3 align="center">
@@ -9,7 +9,6 @@ Hi there, I'm Dalerbek
 <h2 align="center">
 A passionate backend developer from Uzbekistan
 </h2> 
-
 
 
 <p align="left"> <a href="https://github.com/devabsaitov"><img src="https://github-profile-trophy.vercel.app/?username=Daler2528" alt="dilshoduz" /></a> </p>
@@ -39,7 +38,6 @@ A passionate backend developer from Uzbekistan
 ![](https://img.shields.io/badge/FastAPI-information?color=005571&style=flat&logo=fastapi)
 ![](https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&color=%23DD0031&logoColor=white)
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&color=%23F05033&logoColor=white)
-![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&color=FF6C37&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-information?color=E95420&style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-information?color=0078D6&style=flat&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Docker-information?color=%230db7ed&style=flat&logo=docker&logoColor=white)
