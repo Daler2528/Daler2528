@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpython-masterclass-course%2F&psig=AOvVaw2oj_fPc6o31_dyv7FIgYX7&ust=1725711756596000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjGhLSnrogDFQAAAAAdAAAAABAE" alt="my banner">
+  <img src="https://i.ytimg.com/vi/ZFPqYyd0Hh8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvmKL_Z-HqvdBkSJ9AGDP_IWWdAg">
 </p>
 
 <h3 align="center">
